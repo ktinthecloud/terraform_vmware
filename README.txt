@@ -27,4 +27,4 @@ git add .
 git commit -m 'initial commit'
 git push -u origin master
 
-I also experimented with using Terraform cloud state management and storing the passwords in an Azure Vault
+I pulled this from my Azure DevOps Repo and my pipeline was pushing the job down to a local Azure Agent and then running the job against my local vCenter.  I also experimented with using Terraform cloud state management and storing the passwords in an Azure Vault.
