@@ -1,5 +1,5 @@
 Some of the guides I used for this project:
-[altaro.com tutorial - install-terraform-vsphere](https://www.altaro.com/vmware/install-terraform-vsphere/)
+https://www.altaro.com/vmware/install-terraform-vsphere/
 https://www.altaro.com/vmware/secure-terraform-deployment/
 
 Install terraform and add the path to the terraform.exe to the environment variable path on the PC
