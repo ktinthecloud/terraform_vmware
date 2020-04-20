@@ -27,4 +27,4 @@ git add .
 git commit -m 'initial commit'
 git push -u origin master
 
-
+I also experimented with using Terraform cloud state management and storing the passwords in an Azure Vault
